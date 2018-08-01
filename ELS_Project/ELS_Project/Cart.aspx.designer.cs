@@ -11,7 +11,7 @@ namespace ELS_Project
 {
 
 
-    public partial class _Default
+    public partial class Cart
     {
     }
 }
