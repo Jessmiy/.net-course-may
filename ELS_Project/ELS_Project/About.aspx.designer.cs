@@ -22,13 +22,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image leadLecturer;
         
         /// <summary>
-        /// Label1 control.
+        /// TextBox1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.TextBox TextBox1;
         
         /// <summary>
         /// president control.
@@ -40,13 +40,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image president;
         
         /// <summary>
-        /// Label2 control.
+        /// pr_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.TextBox pr_n;
         
         /// <summary>
         /// vicepresident control.
@@ -58,13 +58,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image vicepresident;
         
         /// <summary>
-        /// Label3 control.
+        /// vpr_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
+        protected global::System.Web.UI.WebControls.TextBox vpr_n;
         
         /// <summary>
         /// secretary control.
@@ -76,13 +76,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image secretary;
         
         /// <summary>
-        /// Label4 control.
+        /// s_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.TextBox s_n;
         
         /// <summary>
         /// treasurer control.
@@ -94,13 +94,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image treasurer;
         
         /// <summary>
-        /// Label5 control.
+        /// t_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label5;
+        protected global::System.Web.UI.WebControls.TextBox t_n;
         
         /// <summary>
         /// arts control.
@@ -112,13 +112,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image arts;
         
         /// <summary>
-        /// Label6 control.
+        /// a_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label6;
+        protected global::System.Web.UI.WebControls.TextBox a_n;
         
         /// <summary>
         /// commitee1 control.
@@ -130,13 +130,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image commitee1;
         
         /// <summary>
-        /// Label7 control.
+        /// c1_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label7;
+        protected global::System.Web.UI.WebControls.TextBox c1_n;
         
         /// <summary>
         /// commitee2 control.
@@ -148,13 +148,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image commitee2;
         
         /// <summary>
-        /// Label8 control.
+        /// c2_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label8;
+        protected global::System.Web.UI.WebControls.TextBox c2_n;
         
         /// <summary>
         /// commitee3 control.
@@ -166,13 +166,13 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image commitee3;
         
         /// <summary>
-        /// Label9 control.
+        /// c3_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label9;
+        protected global::System.Web.UI.WebControls.TextBox c3_n;
         
         /// <summary>
         /// commitee4 control.
@@ -184,12 +184,12 @@ namespace ELS_Project {
         protected global::System.Web.UI.WebControls.Image commitee4;
         
         /// <summary>
-        /// Label10 control.
+        /// c4_n control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label10;
+        protected global::System.Web.UI.WebControls.TextBox c4_n;
     }
 }

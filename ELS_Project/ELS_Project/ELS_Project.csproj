@@ -198,6 +198,7 @@
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Cart.aspx" />
+    <Content Include="image\Alphys_good.jpg" />
     <Content Include="Merchanside.aspx" />
     <Content Include="Profile.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
